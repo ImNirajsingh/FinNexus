@@ -1,0 +1,107 @@
+# ==============================
+# Core Python & Data Processing
+# ==============================
+pandas
+numpy
+scipy
+openpyxl
+xlsxwriter
+
+# ==============================
+# PDF Processing
+# ==============================
+pypdf
+pdfplumber
+PyMuPDF
+
+# ==============================
+# OCR - Scanned Bank Statements
+# ==============================
+pytesseract
+Pillow
+opencv-python
+
+# ==============================
+# Machine Learning
+# ==============================
+scikit-learn
+joblib
+
+# ==============================
+# NLP / Embeddings
+# ==============================
+sentence-transformers
+transformers
+torch
+
+# ==============================
+# Vector Database / RAG
+# ==============================
+chromadb
+faiss-cpu
+
+# ==============================
+# LangChain
+# ==============================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# ==============================
+# LLM Providers
+# Install only the providers you use
+# ==============================
+openai
+google-generativeai
+groq
+
+# ==============================
+# API / Backend
+# ==============================
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# ==============================
+# Web / Dashboard
+# ==============================
+streamlit
+
+# ==============================
+# Visualization
+# ==============================
+matplotlib
+plotly
+seaborn
+
+# ==============================
+# Financial / Statistical Analysis
+# ==============================
+statsmodels
+
+# ==============================
+# HTTP / Utilities
+# ==============================
+requests
+httpx
+tqdm
+
+# ==============================
+# Report Generation
+# ==============================
+reportlab
+
+# ==============================
+# Date / Text Processing
+# ==============================
+python-dateutil
+regex
+
+# ==============================
+# Security
+# ==============================
+cryptography
+
+langchain-huggingface
