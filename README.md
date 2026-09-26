@@ -8,7 +8,7 @@
 
 ## Overview
 
-**Bank Statement AI Analyzer** is a modular financial intelligence system designed to transform raw bank statements into structured, analyzable financial data and provide an AI-powered interface for exploring transactions.
+**FinNexus** is a modular financial intelligence system designed to transform raw bank statements into structured, analyzable financial data and provide an AI-powered interface for exploring transactions.
 
 The system combines traditional data analytics with modern AI techniques:
 
